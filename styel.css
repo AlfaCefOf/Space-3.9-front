@@ -1,0 +1,397 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: inherit;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header video {
+    height: Hug (1, 281px);
+    object-fit: cover;
+    width: 100%;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+nav {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 31px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: transparent;
+}
+
+nav img {
+    margin-right: 50px;
+}
+
+.list-header {
+    display: flex;
+    gap: 22.49px;
+}
+
+.list-header li a {
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.header-card1 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+    align-items: start;
+    justify-content: end;
+    height: 100vh;
+    margin-left: 120px;
+    padding-bottom: 100px;
+}
+
+.header-card1 p {
+    font-size: 17.19px;
+    font-weight: 400;
+    line-height: 38px;
+    color: white;
+}
+
+.header-card1 h2 {
+    font-size: 41.06px;
+    font-weight: 400;
+    line-height: 48px;
+    color: white;
+    text-transform: uppercase;
+    margin: 4.5px 0 18px 0;
+}
+
+.header-card1 button {
+    color: white;
+    border: 2px solid white;
+    width: 130px;
+    height: 50px;
+    background-color: transparent;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+
+.header-card1 button:hover {
+    transition: 1s;
+    color: black;
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+.section1 video{
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: 1;
+}
+.header-card2 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+    align-items: start;
+    justify-content: end;
+    height: 100vh;
+    margin-left: 120px;
+    padding-bottom: 100px;
+}
+
+.header-card2 p {
+    font-size: 17.19px;
+    font-weight: 400;
+    line-height: 38px;
+    color: white;
+}
+
+.header-card2 h2 {
+    font-size: 41.06px;
+    font-weight: 400;
+    line-height: 48px;
+    color: white;
+    text-transform: uppercase;
+    margin: 4.5px 0 18px 0;
+}
+
+.header-card2 button {
+    color: white;
+    border: 2px solid white;
+    width: 130px;
+    height: 50px;
+    background-color: transparent;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+
+.header-card2 button:hover {
+    transition: 1s;
+    color: black;
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+.header-card3 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+    align-items: start;
+    justify-content: end;
+    height: 100vh;
+    margin-left: 120px;
+    padding-bottom: 100px;
+}
+
+.header-card3 p {
+    font-size: 17.19px;
+    font-weight: 400;
+    line-height: 38px;
+    color: white;
+}
+
+.header-card3 h2 {
+    font-size: 41.06px;
+    font-weight: 400;
+    line-height: 48px;
+    color: white;
+    text-transform: uppercase;
+    margin: 4.5px 0 18px 0;
+}
+
+.header-card3 button {
+    color: white;
+    border: 2px solid white;
+    width: 130px;
+    height: 50px;
+    background-color: transparent;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+
+.header-card3 button:hover {
+    transition: 1s;
+    color: black;
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+.section2 video{
+    object-fit: cover;
+    width: 100%;
+    height: Hug (1, 281px);
+    position: absolute;
+    z-index: 1;
+}
+.header-card4 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+    align-items: start;
+    justify-content: end;
+    height: 100vh;
+    margin-left: 120px;
+    padding-bottom: 100px;
+}
+
+.header-card4 p {
+    font-size: 17.19px;
+    font-weight: 400;
+    line-height: 38px;
+    color: white;
+}
+
+.header-card4 h2 {
+    width: 468px;
+    font-size: 41.06px;
+    font-weight: 400;
+    line-height: 48px;
+    color: white;
+    text-transform: uppercase;
+    margin: 4.5px 0 18px 0;
+}
+
+.header-card4 button {
+    color: white;
+    border: 2px solid white;
+    width: 130px;
+    height: 50px;
+    background-color: transparent;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+
+.header-card4 button:hover {
+    transition: 1s;
+    color: black;
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+.section3 video{
+    object-fit: cover;
+    width: 100%;
+    height: Hug (1, 281px);
+    position: absolute;
+    z-index: 1;
+}
+.header-card5 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+    align-items: start;
+    justify-content: end;
+    height: 100vh;
+    margin-left: 120px;
+    padding-bottom: 100px;
+}
+
+.header-card5 p {
+    font-size: 17.19px;
+    font-weight: 400;
+    line-height: 38px;
+    color: white;
+}
+
+.header-card5 h2 {
+    width: 404.33px;
+    font-size: 41.06px;
+    font-weight: 400;
+    line-height: 48px;
+    color: white;
+    text-transform: uppercase;
+    margin: 4.5px 0 18px 0;
+}
+
+.header-card5 button {
+    color: white;
+    border: 2px solid white;
+    width: 130px;
+    height: 50px;
+    background-color: transparent;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+
+.header-card5 button:hover {
+    transition: 1s;
+    color: black;
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+.section4 video{
+    object-fit: cover;
+    width: 100%;
+    height: Hug (1, 281px);
+    position: absolute;
+    z-index: 1;
+}
+.header-card6 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+    align-items: start;
+    justify-content: end;
+    height: 100vh;
+    margin-left: 120px;
+    /* padding-bottom: 100px; */
+}
+
+.header-card6 p {
+    font-size: 17.19px;
+    font-weight: 400;
+    line-height: 38px;
+    color: white;
+}
+
+.header-card6 h2 {
+    width: 362.56px;
+    font-size: 41.06px;
+    font-weight: 400;
+    line-height: 48px;
+    color: white;
+    text-transform: uppercase;
+    margin: 4.5px 0 18px 0;
+}
+
+.header-card6 button {
+    color: white;
+    border: 2px solid white;
+    width: 130px;
+    height: 50px;
+    background-color: transparent;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+
+.header-card6 button:hover {
+    transition: 1s;
+    color: black;
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    font-size: 12.91px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+}
+.section5 video{
+    object-fit: cover;
+    width: 100%;
+    height: Hug (1, 281px);
+    position: absolute;
+    z-index: 1;
+}
+.list-footer{
+    
+}
